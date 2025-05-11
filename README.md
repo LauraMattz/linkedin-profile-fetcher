@@ -44,8 +44,9 @@ Execute o script:
 python proxycurl.py
 ```
 
-## Exemplo de Saída 📋
-![Exemplo de saída](https://via.placeholder.com/800x400?text=Exemplo+de+Sa%C3%ADda)
+## Saída 📋
+![Exemplo2](tais2.png))
+![Exemplo2](tais1.png))
 
 ## Contribuição 🤝
 Sinta-se à vontade para abrir issues ou enviar pull requests. Toda ajuda é bem-vinda! 💡
